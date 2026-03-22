@@ -1,4 +1,7 @@
-openai
-pandas
-python-dotenv
-streamlit
+streamlit==1.26.0
+openai==1.28.3
+python-dotenv==1.1.1
+altair==4.2.2
+pandas==2.1.1
+numpy==1.26.0
+markdown2==2.4.7
