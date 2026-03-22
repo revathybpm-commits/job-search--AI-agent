@@ -1,0 +1,68 @@
+Here's a tailored version of the resume that aligns more closely with the job description of a Python developer with experience in AI, automation, and data processing, while maintaining a professional and ATS-friendly format.
+
+---
+
+**REVATHY KADIMPATI**  
+**Python Developer | AI & Automation Specialist | Data Processing Expert**  
+revathy.bpm@gmail.com | 248-346-1847 | linkedin.com/in/revathy-kadimpati-72776a165
+
+---
+
+**PROFESSIONAL SUMMARY**  
+Python Developer with over 17 years of experience specializing in AI-driven solutions, automation, and data processing within the fintech and financial services sectors. Proven expertise in developing robust systems for enterprise data platforms, automating workflows, and driving efficiency through AI technologies. Adept at translating complex business problems into scalable technical solutions, ensuring high-quality deliverables through Agile methodologies. Strong background in Python programming with experience in AI for process automation and data quality validation.
+
+---
+
+**CORE COMPETENCIES**  
+- Python Development & Scripting  
+- AI & Automation Solutions (Near Match & Deduplication Algorithms)  
+- Data Processing & Validation  
+- Agile Methodologies (Scrum)  
+- Technical Requirements Translation & User Story Creation  
+- API Development & Integration (REST, SOAP)  
+- Cloud Technologies (AWS, Azure)  
+- Data Governance, Quality & Lineage  
+- A/B Testing & KPI Dashboards  
+- Collaboration with Cross-Functional Teams  
+
+---
+
+**PROFESSIONAL EXPERIENCE**  
+
+**US Bank**  |  Technical Product Owner / Product Manager  |  June 2024 – Dec 2025  
+- Developed and implemented an AI-powered Near Match and Deduplication algorithm for financial customer records using Python, reducing duplicates by approximately 35% and enhancing data processing efficiency.  
+- Collaborated with data science teams to translate fuzzy matching logic into testable Python code and acceptance criteria, leading UAT cycles to ensure successful deployment.  
+- Spearheaded the launch of a Data Quality Validation Platform using Python for automated data processing, achieving a 28% reduction in data defects through validation rules and real-time alerts.  
+
+**Wells Fargo**  |  Lead Systems Operations Senior Engineer (VP)  |  August 2021 – January 2024  
+- Utilized Python and AI technologies to automate compliance-related data workflows, significantly enhancing operational efficiency and data accuracy.  
+- Defined the IT product strategy for KYC and AML compliance platforms, translating regulatory requirements into Python-driven data processes while ensuring data quality and governance standards were met.  
+- Developed comprehensive financial business cases for automation initiatives, leveraging Python-based solutions to project operational savings and ROI.
+
+**Wipro**  |  Sr. BPM/BAW Engineer → BPM Lead Application Developer  |  Sep 2019 – Aug 2021  
+- Led research and development for automation tools using Python, optimizing environment provisioning across enterprise developer platforms, reducing setup time by 60%.  
+- Executed cloud migration strategies for on-premise workflows, utilizing Python for automation of deployment processes and improving reliability and speed of application access.  
+- Created data quality reports and dashboards using Python, providing real-time insights into data accuracy and completeness across financial services platforms.
+
+**Satyam / Cognizant / IBM / Equifax**  |  Technical Analyst → Senior BAW Engineer → Lead  |  Jan 2007 – Aug 2019  
+- Developed automation solutions in Python for diverse financial applications to streamline claims processing workflows, ensuring scalability and compliance with established data protocols.  
+- Contributed to RFP processes by integrating Python-based solutions into competitive proposals, showcasing technical capabilities that directly supported successful bids.
+
+---
+
+**EDUCATION & CERTIFICATIONS**  
+Bachelor of Technology, Computer Science & Engineering, MG University, India  
+Certified Scrum Product Owner (CSPO) | SAFe Agile Certifications  
+Microsoft Certified: Azure AI Fundamentals | ChatGPT Prompt Engineering | Sun Certified Java Programmer | IBM WebSphere Lombardi Certifications  
+
+---
+
+**TECHNICAL SKILLS**  
+- Programming Languages: Python  
+- AI/ML Technologies: AI for Process Automation, Gen AI, Azure OpenAI Service  
+- Tools & Platforms: JIRA, Confluence, Power BI, AWS, Azure, GCP  
+- Technical Skills: REST API Development, Data Governance, Data Quality Analysis, Automation Scripts  
+
+--- 
+
+This version of the resume emphasizes Python development skills and relevant experiences in AI, automation, and data processing, making it more aligned with the job description provided.
